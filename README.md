@@ -1,4 +1,4 @@
-# RAGE
+# RAGE - probably detected during the current ban wave
 Open source roblox lua executor.
 
 [Latest Download.](https://github.com/Juicyexe/RAGE/releases/download/v1.3a/RAGE.Bootstrapper.exe)
